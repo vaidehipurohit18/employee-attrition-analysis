@@ -13,7 +13,6 @@ The project includes:
 * Interactive Streamlit dashboard
 * Attrition prediction system
 
----
 
 # Problem Statement
 
@@ -26,7 +25,7 @@ Employee attrition is one of the major challenges faced by organizations. High e
 
 The goal of this project is to identify factors influencing attrition and predict employees who are at higher risk of leaving.
 
----
+
 
 # Objectives
 
@@ -36,7 +35,6 @@ The goal of this project is to identify factors influencing attrition and predic
 * Compare multiple classification algorithms
 * Deploy an interactive HR analytics dashboard using Streamlit
 
----
 
 # Dataset
 
@@ -59,7 +57,7 @@ Dataset Size:
 * Rows: 1470
 * Columns: 35
 
----
+
 
 # Technologies Used
 
@@ -84,7 +82,7 @@ Dataset Size:
 * Visual Studio Code
 * GitHub
 
----
+
 
 # Exploratory Data Analysis
 
@@ -104,7 +102,6 @@ The following analyses were performed:
 * Sales department has comparatively higher attrition.
 * Younger employees are more likely to leave the organization.
 
----
 
 # Machine Learning Models
 
@@ -122,7 +119,7 @@ The following models were trained and evaluated:
 * F1-Score
 * ROC-AUC Score
 
----
+
 
 # Final Model Selection
 
@@ -133,7 +130,7 @@ After comparing all models, Logistic Regression was selected as the final model 
 * Accuracy: 87%
 * ROC-AUC Score: 0.67+
 
----
+
 
 # Features Used for Final Deployment
 
@@ -146,7 +143,7 @@ The final deployed model uses the following features:
 * Job Satisfaction
 * Overtime
 
----
+
 
 # Streamlit Dashboard Features
 
@@ -160,7 +157,7 @@ The Streamlit dashboard includes:
 * Attrition Risk Prediction
 * Probability Score Display
 
----
+
 
 # Project Structure
 
@@ -174,8 +171,6 @@ employee-attrition-analysis/
 ├── README.md
 └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 ```
-
----
 
 # How to Run the Project
 
@@ -203,18 +198,18 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+
 
 # Screenshots
+<img width="953" height="480" alt="Screenshot 2026-05-10 220816" src="https://github.com/user-attachments/assets/811c4e43-27f9-4b82-a11a-18d652a79efe" />
+<img width="920" height="416" alt="Screenshot 2026-05-10 220825" src="https://github.com/user-attachments/assets/e4b7bc7f-e984-4096-a1ad-528b245e6e23" />
+<img width="895" height="386" alt="Screenshot 2026-05-10 220836" src="https://github.com/user-attachments/assets/ba62ec3c-c462-4b8d-9d73-bbbf434e96ac" />
+<img width="882" height="398" alt="Screenshot 2026-05-10 220845" src="https://github.com/user-attachments/assets/1242597d-e391-40cc-9df1-2ce2c9160c52" />
+<img width="926" height="468" alt="Screenshot 2026-05-10 220929" src="https://github.com/user-attachments/assets/a9d0dd12-97f0-4314-b7d3-03f0c8c6a3b2" />
+<img width="917" height="527" alt="Screenshot 2026-05-10 221001" src="https://github.com/user-attachments/assets/f556b864-141d-49d0-9f14-0b34bf3ba811" />
 
-Add project screenshots here:
 
-* Dashboard Home Page
-* Attrition Graphs
-* Prediction Page
-* KPI Metrics
 
----
 
 # Business Impact
 
@@ -226,7 +221,7 @@ This project can help HR departments:
 * Improve workforce planning
 * Enhance employee satisfaction
 
----
+
 
 # Future Improvements
 
@@ -239,7 +234,7 @@ Possible future enhancements:
 * Cloud Deployment
 * Database Integration
 
----
+
 
 # Conclusion
 
@@ -255,10 +250,9 @@ The project successfully:
 
 This project highlights the practical application of Artificial Intelligence in Human Resource Management.
 
----
 
 # Author
 
 Vaidehi Purohit
 
-B.Tech Student | AI & Machine Learning Enthusiast | Backend Developer
+B.Tech Student | AI & Machine Learning Enthusiast 
